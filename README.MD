@@ -1,1 +1,1 @@
-Hlodan je gay ok?
+cs
