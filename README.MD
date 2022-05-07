@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BabyMsp2k</h1>
-<h3 align="center">A passionate frontend developer from Czech</h3>
+<h3 align="center">A passionate developer from Czechia</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Kortex.gq**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RealBabyMsp2k](https://github.com/RealBabyMsp2k)
 
