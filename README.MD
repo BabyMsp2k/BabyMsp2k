@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BabyMsp2k</h1>
 <h3 align="center">A passionate developer from Czechia</h3>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Random Recipe generator**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BabyMsp2k](https://github.com/BabyMsp2k)
 
