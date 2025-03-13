@@ -1,14 +1,41 @@
-<h1 align="center">Hi 👋, I'm BabyMsp2k</h1>
-<h3 align="center">A passionate developer from Czechia</h3>
+# Ahoj! 👋 Jsem BabyMsp2k
 
-- 🔭 I’m currently working on **Random Recipe generator**
+![Profilový banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-- 👨‍💻 All of my projects are available at [https://github.com/BabyMsp2k](https://github.com/BabyMsp2k)
+## 🚀 O mně
+Jsem nadšený vývojář z České republiky, který miluje programování, automatizaci a tvorbu webových aplikací. Baví mě pracovat na různých projektech a neustále se učit nové technologie.
 
-- 📫 How to reach me **admin@babymsp2k.wtf**
+- 💻 Aktuálně pracuji na **Generátoru Random Receptů**
+- 🌱 Učím se **nové technologie a optimalizaci backendu**
+- 🎯 Zajímám se o **vývoj botů a webových aplikací**
+- 📫 Kontaktujte mě na **[admin@babymsp2k.wtf](mailto:admin@babymsp2k.wtf)**
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Technologie
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📈 GitHub Statistiky
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabyMsp2k&show_icons=true&theme=radical)
+![Top Jazyky](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyMsp2k&layout=compact&theme=radical)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BabyMsp2k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌍 Kde mě najdete
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901509167863431229)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BabyMsp2k)
+
+---
+
+💡 *"Nikdy se nepřestávej učit a zdokonalovat!"* 🚀
