@@ -1,7 +1,5 @@
 # Ahoj! 👋 Jsem BabyMsp2k
 
-![Profilový banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 ## 🚀 O mně
 Jsem nadšený vývojář z České republiky, který miluje programování, automatizaci a tvorbu webových aplikací. Baví mě pracovat na různých projektech a neustále se učit nové technologie.
 
