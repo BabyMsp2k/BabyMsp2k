@@ -1,9 +1,9 @@
 # Ahoj! 👋 Jsem BabyMsp2k
 
 ## 🚀 O mně
-Jsem nadšený vývojář z České republiky, který miluje programování, automatizaci a tvorbu webových aplikací. Baví mě pracovat na různých projektech a neustále se učit nové technologie.
+Jsem vývojář z České republiky, který miluje programování, automatizaci a tvorbu webových aplikací. Baví mě pracovat na různých projektech a neustále se učit nové technologie.
 
-- 💻 Aktuálně pracuji na **Generátoru Random Receptů**
+- 💻 Aktuálně pracuji na **Projektu Trixinity.cz**
 - 🌱 Učím se **nové technologie a optimalizaci backendu**
 - 🎯 Zajímám se o **vývoj botů a webových aplikací**
 - 📫 Kontaktujte mě na **[admin@babymsp2k.wtf](mailto:admin@babymsp2k.wtf)**
