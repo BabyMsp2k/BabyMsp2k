@@ -3,7 +3,7 @@
 ## 🚀 O mně
 Jsem vývojář z České republiky, který miluje programování, automatizaci a tvorbu webových aplikací. Baví mě pracovat na různých projektech a neustále se učit nové technologie.
 
-- 💻 Aktuálně pracuji na **ničem*
+- 💻 Aktuálně pracuji na **novém Trixinity Webu**
 - 🌱 Učím se **nové technologie a optimalizaci backendu**
 - 🎯 Zajímám se o **vývoj botů a webových aplikací**
 - 📫 Kontaktujte mě na **[admin@babymsp2k.wtf](mailto:admin@babymsp2k.wtf)**
