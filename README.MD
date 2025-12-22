@@ -24,9 +24,6 @@ Jsem vývojář z České republiky, který miluje programování, automatizaci 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BabyMsp2k&show_icons=true&theme=radical)
 ![Top Jazyky](https://github-readme-stats.vercel.app/api/top-langs/?username=BabyMsp2k&layout=compact&theme=radical)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BabyMsp2k&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 🌍 Kde mě najdete
